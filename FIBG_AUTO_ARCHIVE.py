@@ -1,6 +1,4 @@
 import instaloader
-import os
-desktop = os.path.expanduser("~/Desktop")
 
 
 last_post_count = open("python.txt")
